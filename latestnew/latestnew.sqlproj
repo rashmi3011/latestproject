@@ -10,6 +10,7 @@
   <ItemGroup>
     <Folder Include="dbo" />
     <Folder Include="dbo\Tables" />
+    <Folder Include="dbo\Views" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="seedcustomer.sql" />
